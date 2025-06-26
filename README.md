@@ -10,7 +10,7 @@ This project aims to:
 
 ---
 
-## 🧠 What’s Inside
+## What’s Inside
 
 ### ✅ Data Structures
 - Arrays / Lists
@@ -47,10 +47,10 @@ This project aims to:
 ## 🛠 Languages Used
 
 This repository features implementations in:
-- 🐍 **Python**
-- 🟨 **JavaScript**
-- 🎯 **Dart**
-- 🦀 **Rust**
+-  **Python**
+-  **JavaScript**
+-  **Dart**
+-  **Rust**
 
-Each problem or concept will have a dedicated folder with subdirectories for each language. Example:
+
 
